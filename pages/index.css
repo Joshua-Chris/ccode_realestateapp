@@ -1,0 +1,12 @@
+.main__flex {
+    background: url('../assets/images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.main__box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,12 @@
+installed next js
+created babelrc file
+installed some dependencies
+    npm install @chakra-ui/react (UI Kit for components)
+    @emotion/react 
+    @emotion/styled 
+    axios (to make API requests)
+    framer-motion 
+    millify (format large number into a human readable format)
+    nprogress (progress loading bar)
+    react-horizontal-scrolling-menu (image gallery)
+    react-icons 
