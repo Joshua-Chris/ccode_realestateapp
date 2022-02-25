@@ -7,7 +7,7 @@ import { baseUrl, fetchApi } from '../utils/fetchApi';
 
 export const Banner = ({ purpose, title1, title2, buttonText, linkName, imageUrl }) => (
   <Flex flexWrap='wrap' justifyContent='center' alignItems='center' m='10'>
-    <Image src={imageUrl} width={500} height={300} />
+    <Image src={imageUrl} width={500} height={300} alt="buy" />
     <Box p='5'>
       <Text color='gray.500' fontSize='sm' fontWeight='medium'>{purpose}</Text>
       <Text fontSize='3xl' fontWeight='bold'>{title1}</Text>
