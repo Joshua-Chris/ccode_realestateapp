@@ -1,3 +1,2 @@
 # Real Estate App
-
-https://ibb.co/9Nb4FYn
+Homepage's screenshot - https://ibb.co/9Nb4FYn
